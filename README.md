@@ -7,7 +7,7 @@ Pour moi, l'essentiel est de comprendre comment les technologies s'assemblent, d
 ## 🚀 À propos de moi
 - 🎓 Actuellement en **2e année de Master of Engineering** (Programme Grande École) à SUPINFO Caen.
 - 💼 Prochainement stagiaire en Data Science & Vision par Ordinateur chez **Hippik** une start-up normande (juin 2026).
-- 🛠️ Particulièrement intéressé par la **Data**, l'**Intelligence Artificielle** et l'**automatisation**, je reste tout à fait intéresse par les autres domaines IT.
+- 🛠️ Particulièrement intéressé par la **Data**, l'**Intelligence Artificielle** et l'**automatisation**, je reste très ouvert aux autres domaines de l'informatique.
 - 📍 Disponible principalement en Normandie et en Île-de-France.
 
 ---
