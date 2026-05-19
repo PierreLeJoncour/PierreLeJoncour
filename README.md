@@ -19,12 +19,7 @@ Pour moi, l'essentiel est de comprendre comment les technologies s'assemblent, d
 ### 🏉 Sport & Esprit d'équipe
 ![Rugby](https://img.shields.io/badge/Rugby-005A9C?style=for-the-badge&logo=rugby&logoColor=white) ![Course à pied](https://img.shields.io/badge/Course_à_pied-FF6B6B?style=for-the-badge&logo=runkeeper&logoColor=white)
 
-- **Rugby & Course à pied :** 
-
-### 📚 Évasion & Curiosité
 ![Voyages](https://img.shields.io/badge/Voyages-4CAF50?style=for-the-badge&logo=adventurecommunit&logoColor=white) ![Lecture](https://img.shields.io/badge/Lecture-795548?style=for-the-badge&logo=bookstack&logoColor=white)
-
-- **Voyages & Lecture :** Pour découvrir de nouvelles cultures, nourrir ma curiosité et continuer d'apprendre autrement.
 
 ---
 
