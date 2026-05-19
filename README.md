@@ -6,9 +6,8 @@ Pour moi, l'essentiel est de comprendre comment les technologies s'assemblent, d
 
 ## 🚀 À propos de moi
 - 🎓 Actuellement en **2e année de Master of Engineering** (Programme Grande École) à SUPINFO Caen.
-- 💼 Prochainement stagiaire en Data Science & Vision par Ordinateur chez **Hippik** (juin 2026).
-- 🛠️ Particulièrement intéressé par la **Data**, l'**Intelligence Artificielle** et l'**automatisation**, tout en restant ouvert à tous les horizons de l'informatique.
-- 🏃‍♂️ En dehors du code : joueur de rugby, adepte de course à pied, passionné de voyages et grand lecteur.
+- 💼 Prochainement stagiaire en Data Science & Vision par Ordinateur chez **Hippik** une start-up normande (juin 2026).
+- 🛠️ Particulièrement intéressé par la **Data**, l'**Intelligence Artificielle** et l'**automatisation**, je reste tout à fait intéresse par les autres domaines IT.
 - 📍 Disponible principalement en Normandie et en Île-de-France.
 
 ---
@@ -16,16 +15,21 @@ Pour moi, l'essentiel est de comprendre comment les technologies s'assemblent, d
 ## 🏃‍♂️ Mes Centres d'Intérêt
 
 
-### 🏉 Sport
+### 🏉
 ![Rugby](https://img.shields.io/badge/Rugby-005A9C?style=for-the-badge&logo=rugby&logoColor=white) ![Course à pied](https://img.shields.io/badge/Course_à_pied-FF6B6B?style=for-the-badge&logo=runkeeper&logoColor=white)
 
-### 📚 Voyage et Lecture
+### 📚
 ![Voyages](https://img.shields.io/badge/Voyages-4CAF50?style=for-the-badge&logo=adventurecommunit&logoColor=white) ![Lecture](https://img.shields.io/badge/Lecture-795548?style=for-the-badge&logo=bookstack&logoColor=white)
 
 ---
 
 ## 📁 Projets Phares
 
+### 🎮 [Power Quest](https://github.com/votre-pseudo/power-quest)
+Création d'un jeu de stratégie en temps réel (RTS)..
+- **Outils :** Godot 4 (GDScript), Serveur Nakama.
+- **L'essentiel :** Développement d'une interface utilisateur fluide et d'un système de traduction dynamique (multilingue).
+  
 ### 🌤️ [Weather Data Pipeline](https://github.com/votre-pseudo/weather-data-pipeline)
 Un système automatisé conçu pour collecter, nettoyer et stocker des données météorologiques.
 - **Outils :** Python, Apache Airflow, PostgreSQL, Docker, API REST.
@@ -35,11 +39,6 @@ Un système automatisé conçu pour collecter, nettoyer et stocker des données 
 Mise en place d'un réseau informatique sécurisé et interconnecté pour une entreprise répartie sur plusieurs sites.
 - **Outils :** Windows Server, Active Directory, GPO, DFS, Tunnels VPN.
 - **L'essentiel :** Organisation des accès réseaux et automatisation des partages pour les utilisateurs.
-
-### 🎮 [Power Quest](https://github.com/votre-pseudo/power-quest)
-Création d'un jeu de stratégie en temps réel (RTS) avec une attention particulière portée à l'interface et à l'accessibilité.
-- **Outils :** Godot 4 (GDScript), Serveur Nakama.
-- **L'essentiel :** Développement d'une interface utilisateur fluide et d'un système de traduction dynamique (multilingue).
 
 ---
 
