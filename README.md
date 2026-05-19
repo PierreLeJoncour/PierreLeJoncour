@@ -16,9 +16,10 @@ Pour moi, l'essentiel est de comprendre comment les technologies s'assemblent, d
 ## 🏃‍♂️ Mes Centres d'Intérêt
 
 
-### 🏉 Sport & Esprit d'équipe
+### 🏉 Sport
 ![Rugby](https://img.shields.io/badge/Rugby-005A9C?style=for-the-badge&logo=rugby&logoColor=white) ![Course à pied](https://img.shields.io/badge/Course_à_pied-FF6B6B?style=for-the-badge&logo=runkeeper&logoColor=white)
 
+### 📚 Voyage et Lecture
 ![Voyages](https://img.shields.io/badge/Voyages-4CAF50?style=for-the-badge&logo=adventurecommunit&logoColor=white) ![Lecture](https://img.shields.io/badge/Lecture-795548?style=for-the-badge&logo=bookstack&logoColor=white)
 
 ---
