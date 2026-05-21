@@ -1,6 +1,6 @@
 # Salut, moi c'est Pierre ! 👋
 
-Étudiant à SUPINFO, je suis un futur ingénieur curieux et un grand passionné d'informatique. Ce que j'aime par-dessus tout, c'est la diversité de ce domaine : j'adore explorer un peu tout, que ce soit pour structurer de la donnée, configurer des infrastructures ou coder des projets plus interactifs. 
+Étudiant à SUPINFO, je suis curieux et passionné d'informatique. Ce que j'aime par-dessus tout, c'est la diversité de ce domaine : j'adore explorer un peu tout, que ce soit pour structurer de la donnée, configurer des infrastructures ou developper des projets variés. 
 
 Pour moi, l'essentiel est de comprendre comment les technologies s'assemblent, d'apprendre continuellement et de trouver des solutions pratiques aux défis qui se présentent.
 
